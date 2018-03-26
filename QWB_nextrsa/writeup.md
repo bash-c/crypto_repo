@@ -3,6 +3,8 @@
 
 
 > 原文地址：
+>
+> 所有代码均已上传至我的[github](https://github.com/M4xW4n9/crypto_repo/tree/master/QWB_nextrsa)
 
 俄罗斯套娃一样的rsa题目，基本把我见过的rsa套路出了一遍，值得记录一下
 
@@ -191,7 +193,7 @@ Hacked!
 QWB_nextrsa [master●] 
 ```
 
-求出了d，就可以解出明文了，代码太长就不贴了，所有代码都放在了我的github中了
+求出了d，就可以解出明文了，代码太长就不贴了，所有代码都放在了我的[github](https://github.com/M4xW4n9/crypto_repo/tree/master/QWB_nextrsa)中了
 
 ## level 3
 
@@ -533,7 +535,9 @@ e = 3，给了三组数据，使用广播攻击，广播攻击也写在最后的
 
 ## 最终脚本
 
-太长，就不贴出来了，放到我的github上了
+![](http://ww1.sinaimg.cn/large/006AWYXBly1fpqjjd574mj30b9029mxm.jpg)
+
+太长，就不贴出来了，放到[github](https://github.com/M4xW4n9/crypto_repo/tree/master/QWB_nextrsa)上了
 
 ## reference
 
@@ -549,5 +553,5 @@ https://github.com/mimoo/RSA-and-LLL-attacks
 
 初次之外，还见过已知p高位的，可以参考[whctf-untitled](http://www.cnblogs.com/WangAoBo/p/7541481.html)
 
-以及修复证书的，修复Jarvis OJ 600分的RSA
+以及修复证书的，参考Jarvis OJ 600分的RSA
 
