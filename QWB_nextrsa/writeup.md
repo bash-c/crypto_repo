@@ -2,7 +2,7 @@
 
 
 
-> 原文地址：
+> 原文地址：[M4x@10.0.0.55](http://www.cnblogs.com/WangAoBo/p/8654120.html)
 >
 > 所有代码均已上传至我的[github](https://github.com/M4xW4n9/crypto_repo/tree/master/QWB_nextrsa)
 
@@ -551,7 +551,7 @@ https://github.com/mimoo/RSA-and-LLL-attacks
 
 ## more
 
-初次之外，还见过已知p高位的，可以参考[whctf-untitled](http://www.cnblogs.com/WangAoBo/p/7541481.html)
+除此之外，还见过已知p高位的，可以参考[whctf-untitled](http://www.cnblogs.com/WangAoBo/p/7541481.html)
 
 以及修复证书的，参考Jarvis OJ 600分的RSA
 
